@@ -10,7 +10,7 @@ package com.conversor.api;
 
     public class ExchangeRateClient {
 
-       private static final String API_KEY = "5f2bf5a27bd752c8682776f7"; // Reemplaza con tu clave real
+       private static final String API_KEY = "5f2bf5a27bd752c8682776f7"; 
        private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
        private final Gson gson = new Gson();
 
